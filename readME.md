@@ -1,12 +1,15 @@
 # OTML Weekly Briefing
 ## Climate conditions & rainfall outlook for Ok Tedi mine site
+
 *`Updated: 03 Oct 2023`*
+
 ### Outline :
  - Climate background 
  - El Niño–Southern Oscillation analysis & forecast 
  - Indian Ocean Dipole analysis & forecast 
  - Madden–Julian Oscillation (MJO) analysis & forecast 
  - Rainfall forecasts
+
 ## SUMMARY 
 - In general, likely drier than normal conditions are expected from October to December for Ok Tedi and the greater Fly River areas
 - BOM ENSO outlook confirms an established El Nino. Central and eastern Pacific sea surface temperatures (SSTs) continue to exceed El Niño thresholds. Models indicate further warming of the central to eastern Pacific is likely. Climate models indicate this El Niño is likely to persist until at least the end of February.
