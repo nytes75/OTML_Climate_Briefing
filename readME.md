@@ -1,7 +1,7 @@
 # OTML Weekly Briefing
 ## Climate conditions & rainfall outlook for Ok Tedi mine site
 
-*`Updated: 07 Nov 2023`*
+*`Updated: 13 Nov 2023`*
 
 ### Outline :
  - Climate background 
@@ -20,7 +20,7 @@
 ## SUMMARY TABLE
 | MOST LIKELY RAINFALL SCENARIO | Week 1 (starting  06 November) | Week 2 (starting 13 November) | November 2023 (This Month) |
 | ------ | ------ | ------ | ------ |
-| Ok Tedi| Below Average [Likely (60 - 80%)] | Below Average [Very likely (> 80%)] | Below average [Very likely (> 80%)] |
-| Upper Fly | Below Average [Likely (60 - 70%)] | Below Average [Very likely (> 80%)] | Below average [Very likely (> 80%)] |
-| Middle Fly | Below Average [Slightly likely - Likely (50 - 70%)] | Below Average [Very likely (> 80%)] | Below average [Very likely (> 80%)] |
-| Lower Fly | Below Average [Slightly likely - Likely (50 - 60%)] | Below Average [Very likely (> 80%)] | Below average [Very likely (> 80%)] |
+| Ok Tedi| Below Average [ Very likely (> 80%)] | Below Average [Likely (60 - 70%)] | Below average [Slightly likely - Likely (50 - 80%)] |
+| Upper Fly | Below Average [Very likely (> 80%)] | Below Average [Likely (60 -70%)] | Below average [Slightly likely - Likely (50 - 70%)] |
+| Middle Fly | Below Average [Very likely (> 80%)] | Below Average [Slightly likely - Likely (50 - 70%)] | Below average [SLightly likely (40 -50%)] |
+| Lower Fly | Below Average [Very likely (> 80%)] | Below Average [Slightly likely - Likely(50-80%)] | Below average [Slightly likely (40 - 50%)] |
