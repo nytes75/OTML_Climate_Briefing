@@ -9,7 +9,7 @@
  - Indian Ocean Dipole analysis & forecast 
  - Madden–Julian Oscillation (MJO) analysis & forecast 
  - Rainfall forecasts
-
+
 ## SUMMARY 
 - The general consesus forecast is leaning towards slightly below normal for Ok Tedi, Upper and Lower Fly and slightly above normal for Middle Fly. Forecasts becomes challenging when three different seasonal predictions provide different perspectives.
 - December forecast show a Slightly likely(40 - 60%) chance of Below Normal rainfall for Ok Tedi and Fly. In January towards February, predictions of above normal rainfall are slightly likely, mostly favouring the Middle and Lower Fly region.
