@@ -1,7 +1,7 @@
 # OTML Weekly Briefing
 ## Climate conditions & rainfall outlook for Ok Tedi mine site
 
-*`Updated: 27 Nov 2023`*
+*`Updated: 18 Dec 2023`*
 
 ### Outline :
  - Climate background 
@@ -11,17 +11,16 @@
  - Rainfall forecasts
 
 ## SUMMARY 
-- The general consensus forecast is leaning towards slightly above normal for Ok Tedi, Upper and Lower Fly. Forecast becomes challenging when three different seasonal predictions provide different perspectives.
-- Weekly Forecasts: Looking at this week 7-day observed satellite rainfall, there was above average over the Fly. At this time, ECMWF generally has been doing better than ACCESS-S.
-- December forecasts show a slightly likely(40 - 60%) chance of below-normal rainfall for Ok Tedi and Fly. In January towards February, predictions of above-normal rainfall are slightly likely(40 - 60%), mostly favoring Middle Fly region.
-- The Madden-Julian Oscillation (MJO) is currently over the Indian Ocean. models forecast the MJO to reach us by the coming days. MJO over the region is often associated with above average rainfall for Fly.
-- El Nino is underway. Climate models forecasts indicate some further warming of SSTs to the central and the eastern Pacific is likely and continues into at least April.
-- The wet season is set in effect which may mean that this drying influence may be broken by rains with the NW monsoon. During the early half of the wet season, rainy periods will be less frequent/consistent.
+- Seasonal Forecasts: The general consensus forecast for the JFM Season is leaning towards a likely above normal rainfall outlook for Ok Tedi and The Fly. December seems to be the last of the drier months in the outlook period.
+- Monthly Forecasts: January forecasts show a slightly likely - likely (40 - 60%) chance of above-normal rainfall for Ok Tedi and The Fly. Feburay and March, predictions of above-normal rainfall is slightly likely (40 -50%) at this time.
+- Weekly Forecasts: For the week(starting 18 Dec) rainfall is likely to fall Above Average for Middle, The rest be at sligthly likely below normal rainfall. Second week also we see a likely chance of receiving somewhat average rainfall over Ok Tedi and Fly.
+- Below average rainfall can mean significant amounts of rainfall can still fall, just that averaged over the week, it is more likely to be below average than above average.
+- El Nino is currently in place. Likely to continue into at least March. The wet season is set in effect which may mean that this drying influence could be broken by rains with the NW monsoon.
 
-## SUMMARY TABLE
-| MOST LIKELY RAINFALL SCENARIO | Week 1 (starting  27 November) ECMWF | Week 2 (starting 04 December) ECMWF | December 2023 (Next Month) ACCESS-S |
+## SUMMARY TABLE
+| MOST LIKELY RAINFALL SCENARIO | Week 1 (starting  18 December) ACCESS-S | Week 2 (starting 25 December) ECMWF | January 2023 (Next Month) ACCESS-S |
 | ------ | ------ | ------ | ------ |
-| Ok Tedi| Above Average [ Likely (50 - 70%)] | Near Average [Slightly likely - Likely(40 - 60%)] | Below average [Slightly likely - Likely (40 - 60%)] |
-| Upper Fly | Above Average [ Likely (50 - 70%)] | Near Average [Slightly likely - Likely(40 - 60%)] | Below average [Slightly likely - Likely (40 - 60%)] |
-| Middle Fly | Above Average [ Likely (50 - 70%)] | Near Average [Slightly likely - Likely(40 - 60%)] | Below average [Slightly likely (<40 -50%)] |
-| Lower Fly | Above Average [ Likely (50 - 70%)] | Near Average [Slightly likely - Likely(40 - 60%)] | Below average [Slightly likely - Likely (40 - 60%)] |
+| Ok Tedi| Below Average [Slightly likely - Likely(40 - 60%)] | Below Average [Slightly likely(40 - 50%)] | Above Average [Slightly likely - Likely (40 - 60%)] |
+| Upper Fly |  Below Average [Slightly Likely - Likely(40 - 60%)]  | Below Average [Slightly likely (40 - 50%)] | Above average [Slightly likely - Likely (40 - 60%)] |
+| Middle Fly | Below Average [Slightly likely - Likely (50 - 70%)] | Above Average [Likely(40 - 60%)] | Above average [Slightly likely - Likely (40 -60%)] |
+| Lower Fly | Below Average [Slightly likley - Likely (40 - 60%)] | Near Average [Likely(<40 - 50%)] | Above average [Slightly likely - Likely (50 - 60%)] |
