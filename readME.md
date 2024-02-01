@@ -1,7 +1,7 @@
 # OTML Weekly Briefing
 ## Climate conditions & rainfall outlook for Ok Tedi mine site
 
-*`Updated: 18 Dec 2023`*
+*`Updated: 26 Dec 2023`*
 
 ### Outline :
  - Climate background 
@@ -11,7 +11,7 @@
  - Rainfall forecasts
 
 ## SUMMARY 
-- Seasonal Forecasts: The general consensus forecast for the JFM Season is leaning towards a likely above normal rainfall outlook for Ok Tedi and The Fly. December seems to be the last of the drier months in the outlook period.
+- Seasonal Forecasts: The general consensus forecast for the JFM Season is leaning towards a slightly likely above normal rainfall outlook for Ok Tedi and The Fly. December seems to be the last of the drier months in the outlook period.
 - Monthly Forecasts: January forecasts show a slightly likely - likely (40 - 60%) chance of above-normal rainfall for Ok Tedi and The Fly. Feburay and March, predictions of above-normal rainfall is slightly likely (40 -50%) at this time.
 - Weekly Forecasts: For the week(starting 18 Dec) rainfall is likely to fall Above Average for Middle, The rest be at sligthly likely below normal rainfall. Second week also we see a likely chance of receiving somewhat average rainfall over Ok Tedi and Fly. 
 - Below average rainfall can mean significant amounts of rainfall can still fall, just that averaged over the week, it is more likely to be below average than above average.
