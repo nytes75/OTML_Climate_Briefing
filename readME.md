@@ -2,7 +2,7 @@
 
 ## Climate conditions & rainfall outlook for Ok Tedi mine site
 
-*`Updated: 02 Jan 2024`*
+*`Updated: 29 Jan 2024`*
 
 ### Outline :
 
@@ -14,17 +14,17 @@
 
 ## SUMMARY
 
-- Seasonal Forecasts: The ACCESS-S forecast for the JFM Season is leaning towards a slightly likely - likely Above normal rainfall outlook for Ok Tedi and The Fly.
-- Monthly Forecasts: January forecasts show a slightly likely - likely (40 - 60%) chance of above average rainfall for Ok Tedi and The Fly. Lower Fly, having a greater chance of receiving Above normal rainfall. February towards March, above-normal rainfall is predicted to be slightly likely (40 - 60%) at this time.
-- Weekly Forecasts: For the first week(starting 01 Jan) rainfall is likely to fall Above Average for Ok Tedi and the Fly River areas. This likely to continue in to the second week(starting 08 Jan) but with a lower chance.
-- The positive Indian Ocean Dipole (IOD) remains, but is weakening steadily. Most models predict this positive IOD is likely to end this Month.
-- El Nino is currently in place. Likely to continue into at least March.
+- Seasonal Forecasts: The general consensus forecast for the FMA Season is leaning towards a likely Above normal rainfall outlook for Ok Tedi and The Fly.
+- Monthly Forecasts: February forecasts for Ok Tedi and Upper Fly sees a most likely scenario of average conditions. A slightly likely (40 - 60%) chance of above average rainfall for Middle Fly and Lower Fly. For March and April, the forecast is leaning towards likely for above-normal rainfall conditions.
+- Weekly Forecasts: Starting from January 29th, a slightly-likely chance of average rainfall over Ok Tedi and Upper Fly and continues to the 2nd week(05 Feb). Middle and Lower Fly regions are expected to experience above-average rainfall in the initial week (29 Jan) and a move down towards an average to below average rainfall next week (05 Feb).
+- The positive Indian Ocean Dipole (IOD) near its end. Most models indicate the IOD will be neutral from February till at least April.
+- El Niño ocean warmth reached their highest point and are now starting to decrease. Model forecasts and observations indicate sea surface temperatures in the central tropical Pacific have peaked and are now declining. El Niño is expected to end between March and May.
 
 ## SUMMARY TABLE
 
-| MOST LIKELY RAINFALL SCENARIO | Week 1 (Starting 01 January) ACCESS                   | Week 2 (Starting 08 January) ACCESS                  | January 2024 (This Month) ACCESS-S                   |
-| ----------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
-| Ok Tedi                       | Above Average [ Likely - Very likely(60 - > 80%) ]    | Above Average [Slightly likely - Likely (50 - 60%)] | Above Average [Slightly likely - Likely (50 - 60%)] |
-| Upper Fly                     | Above Average [ Likely - Very likely (60 - > 80%) ]   | Above Average [Slightly likely - Likely (40 - 60%)] | Above Average [Slightly likely - Likely (50 - 60%)] |
-| Middle Fly                    | Above Average [Likely - Very likely (60 - > 80%)]   | Above Average [Slightly likely - Likely (50 - 60%)]   | Above Average [Slightly likely - Likely (50 - 60%)] |
-| Lower Fly                     | Above Average [Slightly likely - Likely (50 - 80%)] | Above Average [Slightly likely - Likely (50 - 70%)]  | Above average [Slightly likely - Likely (50 - 60%)]  |
+| MOST LIKELY RAINFALL SCENARIO | Week 1 (Starting 29 January) ACCESS                  | Week 2 (Starting 05 February) ACCESS                         | February 2024 (Next Month) ACCESS-S                 |
+| :---------------------------: | ----------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
+|            Ok Tedi            | Near Average [Slightly likely (40 - 50%)]            | Near Average [Slightly likely (40 - 50%)]                   | Near Average [Less likely ( < 40%)]                 |
+|           Upper Fly           | Near Average [Slightly likely (40 - 50%)]            | Near Average [Slightly likely (40 - 50%)]                   | Near Average [Lessikely ( < 40%)]                   |
+|          Middle Fly          | Above Average [Slightly likely - likely (40 - 60%)]  | Near Average [Slightly likely - Likely (40 - 60%)]           | Above Average [Slightly likely (40 - 50%)]         |
+|           Lower Fly           | Above Average [Slightly likely - Likely (50 - 80%)] | Below Average [Less likely - Slightly likely ( < 40 - 50%)] | Above average [Slightly likely - Likely (40 - 60%)] |
